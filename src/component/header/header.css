@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    width: 100%;
+}
+.navlink{
+    display: flex;
+    list-style: none;
+
+
+}
+.navlink li{
+justify-content: space-between;
+}
